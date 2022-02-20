@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T09:34:36.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="m1TomfL8NmI7dmMpX75A" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T09:36:00.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kcld5K1_84hHpWOnIbaM" version="16.6.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="860" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1455" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,10 +75,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NuGh07lJg3D4-EFvgVv7-2" value="Travel Vaccine Pass" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="420" y="40" width="240" height="40" as="geometry" />
+          <mxGeometry x="460" y="40" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NuGh07lJg3D4-EFvgVv7-3" value="&lt;ol&gt;&lt;li&gt;Online through My Covid Record.&lt;/li&gt;&lt;li&gt;Over the phone.&lt;/li&gt;&lt;li&gt;Pharmacy (in person).&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=left;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-22">
-          <mxGeometry x="420" y="120" width="240" height="80" as="geometry" />
+          <mxGeometry x="460" y="120" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NuGh07lJg3D4-EFvgVv7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-22" source="NuGh07lJg3D4-EFvgVv7-7" target="NuGh07lJg3D4-EFvgVv7-8">
           <mxGeometry relative="1" as="geometry" />
